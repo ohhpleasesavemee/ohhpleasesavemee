@@ -70,5 +70,13 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=3000&color=4ECDC4&center=true&width=600&lines=🚀+Building+the+future+one+commit+at+a+time;💡+Always+learning%2C+always+growing;🔥+Passionate+about+AI+and+automation;⚡+Let's+create+something+amazing+together!" alt="Footer typing" />
 </div>
